@@ -68,7 +68,7 @@ Tahap untuk mendapatkan informasi dari pengguna sebagai berikut :
    ![image](https://github.com/user-attachments/assets/e9739ee9-fa80-4fd7-973d-a8b12f02783e)
    Lalu ```Enter```
 7. Klik ```Command```
-8. Akan muncul hasil. Kata perintah adalah ```go``` dan kata kedua adalah ```west```. Sedangkan kata yang lain dianggap tidak dimengerti.
+8. Akan muncul hasil. Kata perintah adalah ```go``` dan kata kedua adalah ```west```. Sedangkan kata yang lain dianggap tidak dimengerti.<br>
 ![image](https://github.com/user-attachments/assets/05a91c9d-0a26-4770-9055-8b807af6e3b8)
 
 
